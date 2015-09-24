@@ -1,0 +1,6 @@
+c:\users\vs9 x64bit\documents\visual studio 2013\Projects\Batman\Batman\bin\Debug\Batman.exe.config
+c:\users\vs9 x64bit\documents\visual studio 2013\Projects\Batman\Batman\bin\Debug\Batman.exe
+c:\users\vs9 x64bit\documents\visual studio 2013\Projects\Batman\Batman\bin\Debug\Batman.pdb
+c:\users\vs9 x64bit\documents\visual studio 2013\Projects\Batman\Batman\obj\Debug\Batman.exe
+c:\users\vs9 x64bit\documents\visual studio 2013\Projects\Batman\Batman\obj\Debug\Batman.pdb
+c:\users\vs9 x64bit\documents\visual studio 2013\Projects\Batman\Batman\obj\Debug\Batman.csprojResolveAssemblyReference.cache

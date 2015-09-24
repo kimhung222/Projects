@@ -1,0 +1,6 @@
+c:\users\vs9 x64bit\documents\visual studio 2013\Projects\HandlingFile\HandlingFile\bin\Debug\HandlingFile.exe.config
+c:\users\vs9 x64bit\documents\visual studio 2013\Projects\HandlingFile\HandlingFile\bin\Debug\HandlingFile.exe
+c:\users\vs9 x64bit\documents\visual studio 2013\Projects\HandlingFile\HandlingFile\bin\Debug\HandlingFile.pdb
+c:\users\vs9 x64bit\documents\visual studio 2013\Projects\HandlingFile\HandlingFile\obj\Debug\HandlingFile.csprojResolveAssemblyReference.cache
+c:\users\vs9 x64bit\documents\visual studio 2013\Projects\HandlingFile\HandlingFile\obj\Debug\HandlingFile.exe
+c:\users\vs9 x64bit\documents\visual studio 2013\Projects\HandlingFile\HandlingFile\obj\Debug\HandlingFile.pdb

@@ -1,0 +1,2 @@
+c:\users\vs9 x64bit\documents\visual studio 2013\Projects\Chapter9Method\Chapter9Method\bin\Debug\Chapter9Method.exe.config
+c:\users\vs9 x64bit\documents\visual studio 2013\Projects\Chapter9Method\Chapter9Method\obj\Debug\Chapter9Method.csprojResolveAssemblyReference.cache
